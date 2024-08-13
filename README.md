@@ -1,8 +1,8 @@
 <!--
-## Hi 👋
+## Hi 
 🌱 I’m currently studying computer science at Addis Ababa University. -->
-### Hi, I'm Haileamlak Belachew! 
-A **Computer Science Student** at **Addis Ababa University**. I am🌱Currently learning backend development with the Go programming language.
+### 👋, I'm Haileamlak Belachew! 
+A **Computer Science Student** at **Addis Ababa University**. I am currently learning backend development with the Go programming language.
 
 ### 🛠️ Skills & Technologies
 
