@@ -1,11 +1,9 @@
 <!--
 ## Hi 👋
 🌱 I’m currently studying computer science at Addis Ababa University. -->
-# Hi, I'm Haileamlak Belachew!
+## Hi, I'm Haileamlak Belachew! A **Computer Science Student** at **Addis Ababa University**
 
-A **Computer Science Student** at **Addis Ababa University**
-
-## 🛠️ Skills & Technologies
+### 🛠️ Skills & Technologies
 
 - **Languages:** Python, Java, Golang, Dart (Flutter), C++
 - **Frameworks & Libraries:** Flutter
@@ -22,9 +20,7 @@ A **Computer Science Student** at **Addis Ababa University**
 - **[Calendar Application](https://github.com/username/calendar-app)**: A Java Swing application supporting Ethiopian and Gregorian calendars, with additional features like date conversions and holiday calculations.
 - **[Health Information Website](https://github.com/username/health-info-website)**: A comprehensive health-related information website with a feature to find nearby health centers.
 -->
-## 🌱 Currently Learning
-
-- Backend development with the Go programming language.
+### 🌱 Currently Learning Backend development with the Go programming language.
 
 <!--
 ## 💼 Experience
@@ -32,7 +28,7 @@ A **Computer Science Student** at **Addis Ababa University**
 - **A2SV (Africa to Silicon Valley)**: Participated in a project phase focusing on backend development. Developed real-life software projects and enhanced problem-solving skills through competitive programming.
 - **Hackathons**: Active participant in various hackathons, winning and contributing to innovative software solutions.
 -->
-## 📫 Get in Touch
+### 📫 Get in Touch
 
 - **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/haileamlak/)
 - **Email:** haileamlakbeat@gmail.com
@@ -43,7 +39,7 @@ A **Computer Science Student** at **Addis Ababa University**
 - **Graduated** with a GPA of 3.72/4.0 from Addis Ababa University
 - **Mastered** advanced data structures and algorithms through A2SV
 -->
-## ⚽ Hobbies & Interests
+### ⚽ Hobbies & Interests
 
 - **Football:** I enjoy playing and watching football during my free time.
 - **Reading:** I'm an avid reader, always looking for interesting books.
