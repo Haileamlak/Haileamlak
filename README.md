@@ -1,8 +1,9 @@
 <!--
 ## Hi 👋
 🌱 I’m currently studying computer science at Addis Ababa University. -->
-#### Hi, I'm Haileamlak Belachew!
-A **Computer Science Student** at **Addis Ababa University**
+### Hi, I'm Haileamlak Belachew! 
+  A **Computer Science Student** at **Addis Ababa University**. 
+🌱Currently Learning Backend development with the Go programming language.
 
 ### 🛠️ Skills & Technologies
 
@@ -20,16 +21,13 @@ A **Computer Science Student** at **Addis Ababa University**
 - **[Task Manager API](https://github.com/username/task-manager-api)**: A robust API built with Golang, following Clean Architecture principles.
 - **[Calendar Application](https://github.com/username/calendar-app)**: A Java Swing application supporting Ethiopian and Gregorian calendars, with additional features like date conversions and holiday calculations.
 - **[Health Information Website](https://github.com/username/health-info-website)**: A comprehensive health-related information website with a feature to find nearby health centers.
--->
-#### 🌱 Currently Learning Backend development with the Go programming language.
 
-<!--
 ## 💼 Experience
 
 - **A2SV (Africa to Silicon Valley)**: Participated in a project phase focusing on backend development. Developed real-life software projects and enhanced problem-solving skills through competitive programming.
 - **Hackathons**: Active participant in various hackathons, winning and contributing to innovative software solutions.
 -->
-#### 📫 Get in Touch
+### 📫 Get in Touch
 
 - **LinkedIn:** [Haileamlak Belachew](https://www.linkedin.com/in/haileamlak/)
 - **Email:** haileamlakbeat@gmail.com
