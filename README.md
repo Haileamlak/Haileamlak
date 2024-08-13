@@ -31,7 +31,7 @@ A **Computer Science Student** at **Addis Ababa University**
 -->
 ### 📫 Get in Touch
 
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/haileamlak/)
+- **LinkedIn:** [Haileamlak Belachew](https://www.linkedin.com/in/haileamlak/)
 - **Email:** haileamlakbeat@gmail.com
 <!--
 ## 🏆 Achievements
