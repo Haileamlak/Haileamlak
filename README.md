@@ -1,12 +1,13 @@
 <!--
 ## Hi 👋
 🌱 I’m currently studying computer science at Addis Ababa University. -->
-## Hi, I'm Haileamlak Belachew! A **Computer Science Student** at **Addis Ababa University**
+## Hi, I'm Haileamlak Belachew!
+A **Computer Science Student** at **Addis Ababa University**
 
 ### 🛠️ Skills & Technologies
 
-- **Languages:** Python, Java, Golang, Dart (Flutter), C++
-- **Frameworks & Libraries:** Flutter
+- **Languages:** Python, Golang, Dart (Flutter), C++, Java
+- **Frameworks & Libraries:** Flutter, Testify
 - **Backend Development:** RESTful APIs, Clean Architecture, SOLID Principles, Microservices
 - **Tools:** Git, Postman, VS Code
 - **Databases:** MySQL, MongoDB, Firebase
