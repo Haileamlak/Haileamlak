@@ -3,7 +3,7 @@
 🌱 I’m currently studying computer science at Addis Ababa University. -->
 ## 👋, I'm Haileamlak Belachew! 
 
-- An AI-Powered **Computer Science Student** at **Addis Ababa University**. 
+- A **Computer Science Student** at **Addis Ababa University**. 
 - Currently learning backend development with the Go programming language.
 
 ### 🛠️ Skills & Technologies
