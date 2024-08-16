@@ -3,10 +3,10 @@
 🌱 I’m currently studying computer science at Addis Ababa University. -->
 ## 👋, I'm Haileamlak Belachew! 
 
-- A **Computer Science Student** at **Addis Ababa University**. 
-- Currently learning backend development with the Go programming language.
+- I am studying **Computer Science** at **Addis Ababa University**. 
+- And currently learning backend development with the Go programming language.
 
-### 🛠️ Skills & Technologies
+### Skills & Technologies
 
 - **Languages:** Python, Golang, Dart (Flutter), C++, Java
 - **Frameworks & Libraries:** Flutter, Testify
@@ -28,7 +28,7 @@
 - **A2SV (Africa to Silicon Valley)**: Participated in a project phase focusing on backend development. Developed real-life software projects and enhanced problem-solving skills through competitive programming.
 - **Hackathons**: Active participant in various hackathons, winning and contributing to innovative software solutions.
 -->
-### 📫 Get in Touch
+### Get in Touch
 
 - **LinkedIn:** [Haileamlak Belachew](https://www.linkedin.com/in/haileamlak/)
 - **Email:** haileamlakbeat@gmail.com
