@@ -39,7 +39,7 @@
 - **Graduated** with a GPA of 3.72/4.0 from Addis Ababa University
 - **Mastered** advanced data structures and algorithms through A2SV
 -->
-#### ⚽ Hobbies & Interests
+#### Hobbies & Interests
 
 - **Football:** I enjoy playing and watching football during my free time.
 - **Reading:** I'm an avid reader, always looking for interesting books.
