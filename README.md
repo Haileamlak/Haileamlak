@@ -48,7 +48,7 @@ A software engineer with a strong foundation in back-end development, mobile app
 
 I develop scalable and secure RESTful APIs with Golang and Python, and create cross-platform mobile applications using Flutter. My approach emphasizes clean, maintainable code, leveraging agile methodologies, Clean Architecture, and thorough testing.
 
-I am currently enrolled in an intensive software engineering training program at [A2SV](https://a2sv.org/), where I focus on advanced algorithms, data structures, and collaborative software development. This experience has sharpened my problem-solving skills and enhanced my technical communication abilities.
+I am currently enrolled in an intensive software engineering training program at [A2SV](https://a2sv.org/), where I focus on advanced algorithms, data structures, and back-end software development. This experience has sharpened my problem-solving skills and enhanced my technical communication abilities.
 
 These are the languages and tools I am familiar with. 
 <p align="center">
