@@ -70,7 +70,7 @@ These are the languages and tools I am familiar with.
   <img src="https://img.shields.io/badge/-JWT-000000?style=flat&logo=json-web-tokens&logoColor=white" />
 </p>
 
-You can reach out to me via email at [haileamlakbeat@gmail.com](mailto:haileamlakbeat@gmail.com), or connect with me on [linkedin.com/in/haileamlak](https://linkedin.com/in/haileamlak), [github.com/haileamlak](https://github.com/haileamlak)
+You can reach out to me via email at [haileamlakbeat@gmail.com](mailto:haileamlakbeat@gmail.com), or connect with me on [linkedin.com/in/haileamlak](https://linkedin.com/in/haileamlak).
 
 
 ![Haileamlak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haileamlak&show_icons=true&theme=radical)
