@@ -1,6 +1,6 @@
 <!--
 ## Hi 
-🌱 I’m currently studying computer science at Addis Ababa University. -->
+🌱 I’m currently studying computer science at Addis Ababa University. 
 ## 👋, I'm Haileamlak Belachew! 
 
 - I am studying **Computer Science** at **Addis Ababa University**. 
@@ -15,7 +15,7 @@
 - **Tools:** Git, Postman, VS Code
 - **Other:** Data Structures & Algorithms, Competitive Programming
 
-<!--
+
 ## 🌟 Notable Projects
 
 - **[MK ICT Competition 1st Place Project](https://github.com/username/project-link)**: Developed a live and on-demand video streaming platform for EOTC MK Television Broadcast Service.
@@ -27,7 +27,7 @@
 
 - **A2SV (Africa to Silicon Valley)**: Participated in a project phase focusing on backend development. Developed real-life software projects and enhanced problem-solving skills through competitive programming.
 - **Hackathons**: Active participant in various hackathons, winning and contributing to innovative software solutions.
--->
+
 ### Get in Touch
 
 - **LinkedIn:** [Haileamlak Belachew](https://www.linkedin.com/in/haileamlak/)
@@ -38,9 +38,47 @@
 - **1st Place** at MK ICT Competition'23
 - **Graduated** with a GPA of 3.72/4.0 from Addis Ababa University
 - **Mastered** advanced data structures and algorithms through A2SV
--->
 #### Hobbies & Interests
 
 - **Football:** I enjoy playing and watching football during my free time.
 - **Reading:** I'm an avid reader, always looking for interesting books.
+-->
+
+# Hi, I'm Haileamlak Belachew! 👋
+
+## 🌟 About Me
+
+I'm a passionate software engineer with a strong foundation in back-end development, mobile applications, and full-stack projects. I recently graduated with a Bachelor's degree in Computer Science from Addis Ababa University, and I'm continuously exploring new technologies and frameworks to enhance my skills.
+
+### 🚀 What I Do
+
+- **Backend Development**: Proficient in building scalable and secure RESTful APIs using Golang and Python.
+- **Mobile Development**: Developed cross-platform mobile applications using Flutter, focusing on clean and maintainable code.
+- **Software Engineering**: Experience with agile methodologies, Clean Architecture, and CI/CD pipelines using GitHub Actions.
+
+### 🌐 Experience
+
+- **A2SV (Africa to Silicon Valley)**: Completed an intensive software engineering training program focused on advanced algorithms, data structures, and collaborative software development. This experience honed my problem-solving abilities and technical communication skills.
+- **Ethiomereb**: Developed a mobile application for an eCommerce site in Ethiopia using Flutter, integrating it seamlessly with a back-end RESTful API.
+
+### 🔧 Technologies & Tools
+
+- **Languages**: Python, Golang, Dart (Flutter), C++, Java
+- **Frameworks**: Flask, React, Spigot API, Testify
+- **Databases**: MySQL, MongoDB, Firebase
+- **Tools**: Git, Docker, Postman, VS Code
+- **Others**: Redis, Celery, JWT, OAuth2
+
+### 📈 GitHub Stats
+
+![Haileamlak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haileamlak&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haileamlak&layout=compact&theme=radical)
+
+### 📫 How to Reach Me
+
+- **Email**: [haileamlakbeat@gmail.com](mailto:haileamlakbeat@gmail.com)
+- **LinkedIn**: [linkedin.com/in/haileamlak](https://linkedin.com/in/haileamlak)
+- **GitHub**: [github.com/haileamlak](https://github.com/haileamlak)
+
+Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just chat about technology.
 
