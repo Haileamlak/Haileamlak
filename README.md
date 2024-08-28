@@ -50,7 +50,7 @@ I develop scalable and secure RESTful APIs with Golang and Python, and create cr
 
 I am currently enrolled in an intensive software engineering training program at [A2SV](https://a2sv.org/), where I focus on advanced algorithms, data structures, and back-end software development. This experience has sharpened my problem-solving skills and enhanced my technical communication abilities.
 
-These are the languages and tools I am familiar with. 
+Languages: 
 <p align="left">
   <img src="https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white" />
@@ -60,12 +60,15 @@ These are the languages and tools I am familiar with.
 </p>
 <!--   <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white" /> -->
 <!--   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" /> -->
-<p align="center">
+Databases: 
+<p align="left">
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
 </p>
-<p align="right">
+
+Other Tools: 
+<p align="left">
 <!--   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
@@ -74,9 +77,36 @@ These are the languages and tools I am familiar with.
   <img src="https://img.shields.io/badge/-JWT-000000?style=flat&logo=json-web-tokens&logoColor=white" />
 </p>
 
+Sure! Here’s how you can make the titles inline with the logos:
+
+### Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white" alt="Golang" />
+  <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
+</p>
+
+### Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+### Other Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/-JWT-000000?style=flat&logo=json-web-tokens&logoColor=white" alt="JWT" />
+</p>
 You can reach out to me via email at [haileamlakbeat@gmail.com](mailto:haileamlakbeat@gmail.com), or connect with me on [linkedin.com/in/haileamlak](https://linkedin.com/in/haileamlak).
 
 
-![Haileamlak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haileamlak&show_icons=true&theme=radical)
+<!--![Haileamlak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haileamlak&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haileamlak&layout=compact&theme=radical)
 
+-->
