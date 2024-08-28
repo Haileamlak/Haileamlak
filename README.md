@@ -42,7 +42,6 @@
 
 - **Football:** I enjoy playing and watching football during my free time.
 - **Reading:** I'm an avid reader, always looking for interesting books.
--->
 
 # Hi, I'm Haileamlak Belachew! 👋
 
@@ -82,3 +81,7 @@ I'm a passionate software engineer with a strong foundation in back-end developm
 
 Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just chat about technology.
 
+
+-->
+
+I'm a passionate software engineer with a strong foundation in back-end development, mobile applications, and full-stack projects. My experience at A2SV (Africa to Silicon Valley) has honed my skills in advanced algorithms, data structures, and collaborative software development, giving me the opportunity to work on impactful projects that address pressing challenges in Africa. I enjoy building scalable and secure RESTful APIs using Golang and Python, and I've developed cross-platform mobile applications using Flutter. I'm always exploring new technologies and frameworks to improve my craft. You can find me contributing to projects, learning in public, and sharing my journey across various platforms. Let's connect: [LinkedIn](https://linkedin.com/in/haileamlak), [GitHub](https://github.com/haileamlak), or reach out via [Email](mailto:haileamlakbeat@gmail.com).
