@@ -42,46 +42,36 @@
 
 - **Football:** I enjoy playing and watching football during my free time.
 - **Reading:** I'm an avid reader, always looking for interesting books.
+-->
+# Hi, I'm Haileamlak Belachew! 
+A software engineer with a strong foundation in back-end development, mobile applications, and full-stack projects. I recently graduated with a Bachelor's degree in Computer Science from Addis Ababa University, and I'm continuously exploring new technologies and frameworks to enhance my skills.
 
-# Hi, I'm Haileamlak Belachew! 👋
+I develop scalable and secure RESTful APIs with Golang and Python, and create cross-platform mobile applications using Flutter. My approach emphasizes clean, maintainable code, leveraging agile methodologies, Clean Architecture, and thorough testing.
 
-## 🌟 About Me
+I am currently enrolled in an intensive software engineering training program at [A2SV](https://a2sv.org/), where I focus on advanced algorithms, data structures, and collaborative software development. This experience has sharpened my problem-solving skills and enhanced my technical communication abilities.
 
-I'm a passionate software engineer with a strong foundation in back-end development, mobile applications, and full-stack projects. I recently graduated with a Bachelor's degree in Computer Science from Addis Ababa University, and I'm continuously exploring new technologies and frameworks to enhance my skills.
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JWT-000000?style=flat&logo=json-web-tokens&logoColor=white" />
+</p>
 
-### 🚀 What I Do
-
-- **Backend Development**: Proficient in building scalable and secure RESTful APIs using Golang and Python.
-- **Mobile Development**: Developed cross-platform mobile applications using Flutter, focusing on clean and maintainable code.
-- **Software Engineering**: Experience with agile methodologies, Clean Architecture, and CI/CD pipelines using GitHub Actions.
-
-### 🌐 Experience
-
-- **A2SV (Africa to Silicon Valley)**: Completed an intensive software engineering training program focused on advanced algorithms, data structures, and collaborative software development. This experience honed my problem-solving abilities and technical communication skills.
-- **Ethiomereb**: Developed a mobile application for an eCommerce site in Ethiopia using Flutter, integrating it seamlessly with a back-end RESTful API.
-
-### 🔧 Technologies & Tools
-
-- **Languages**: Python, Golang, Dart (Flutter), C++, Java
-- **Frameworks**: Flask, React, Spigot API, Testify
-- **Databases**: MySQL, MongoDB, Firebase
-- **Tools**: Git, Docker, Postman, VS Code
-- **Others**: Redis, Celery, JWT, OAuth2
-
-### 📈 GitHub Stats
 
 ![Haileamlak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haileamlak&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haileamlak&layout=compact&theme=radical)
 
-### 📫 How to Reach Me
+You can reach out to me via email at [haileamlakbeat@gmail.com](mailto:haileamlakbeat@gmail.com), or connect with me on [linkedin.com/in/haileamlak](https://linkedin.com/in/haileamlak), [github.com/haileamlak](https://github.com/haileamlak)
 
-- **Email**: [haileamlakbeat@gmail.com](mailto:haileamlakbeat@gmail.com)
-- **LinkedIn**: [linkedin.com/in/haileamlak](https://linkedin.com/in/haileamlak)
-- **GitHub**: [github.com/haileamlak](https://github.com/haileamlak)
-
-Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just chat about technology.
-
-
--->
-
-I'm a passionate software engineer with a strong foundation in back-end development, mobile applications, and full-stack projects. My experience at A2SV (Africa to Silicon Valley) has honed my skills in advanced algorithms, data structures, and collaborative software development, giving me the opportunity to work on impactful projects that address pressing challenges in Africa. I enjoy building scalable and secure RESTful APIs using Golang and Python, and I've developed cross-platform mobile applications using Flutter. I'm always exploring new technologies and frameworks to improve my craft. You can find me contributing to projects, learning in public, and sharing my journey across various platforms. Let's connect: [LinkedIn](https://linkedin.com/in/haileamlak), [GitHub](https://github.com/haileamlak), or reach out via [Email](mailto:haileamlakbeat@gmail.com).
