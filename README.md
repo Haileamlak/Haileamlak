@@ -55,7 +55,7 @@ These are the languages and tools I am familiar with.
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain-wordmark.svg" />
 <!--   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/golang/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  -->
-  <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" />
