@@ -53,11 +53,15 @@ I am currently enrolled in an intensive software engineering training program at
 These are the languages and tools I am familiar with.
 
 <p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-plain-wordmark.svg" alt="go" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain-wordmark.svg" alt="dart" width="40" height="40" />
-  <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain-wordmark.svg" alt="python" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c++/c++-plain-wordmark.svg" alt="c++" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg" alt="java" width="40" height="40" />
+<!--   <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white" /> -->
+<!--   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" /> -->
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
