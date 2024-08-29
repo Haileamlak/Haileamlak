@@ -53,8 +53,8 @@ I am currently enrolled in an intensive software engineering training program at
 These are the languages and tools I am familiar with.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-Golang-0175C2?golang=golang&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-Golang-0175C2?style=flat&logo=golang&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-Dart-0175C2?style=plain&logo=dart&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" />
