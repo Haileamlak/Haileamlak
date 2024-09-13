@@ -80,4 +80,4 @@ You can reach out to me via email at [haileamlakbeat@gmail.com](mailto:haileamla
 
 -->
 <img src="https://github-readme-stats-one-bice.vercel.app/api?username=haileamlak&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@surraaI's github-readme-stats"/>
-    
+<img src="https://github-readme-streak-stats.herokuapp.com?user=surraaI&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@surraaI's github-readme-streak-stats"/>
