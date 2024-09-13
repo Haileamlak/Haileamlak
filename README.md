@@ -126,22 +126,27 @@ I am currently enrolled in an intensive software engineering training program at
 
 **Get in Touch**
 
-<p align="left" >
-  <a href="https://linkedin.com/in/haileamlak" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <div style="width: 20px;"></div>
-  <a href="mailto:haileamlakbeat@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" height="40"/>
-  </a>
-  <div style="width: 20px;"></div>
-  
-  <a href="https://leetcode.com/Hayla_Beat" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Leetcode" width="40" height="40"/>
-  </a>
-  <div style="width: 20px;"></div>
-  
-  <a href="https://codeforces.com/profile/haileamlak" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-2-pack-logos-icons-2944796.png?f=webp&w=256" alt="Codeforces" width="40" height="40"/>
-  </a>
-</p>
+<table align="left">
+  <tr>
+    <td align="center" width="96">
+      <a href="https://linkedin.com/in/haileamlak" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="mailto:haileamlakbeat@gmail.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://leetcode.com/yourprofile" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Leetcode" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://codeforces.com/profile/yourprofile" target="_blank">
+        <img src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-2-pack-logos-icons-2944796.png?f=webp&w=256" alt="Codeforces" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
