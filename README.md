@@ -113,15 +113,12 @@ I am currently enrolled in an intensive software engineering training program at
   </tr>
 </table>
 
-You can reach out to me via email at [haileamlakbeat@gmail.com](mailto:haileamlakbeat@gmail.com), or connect with me on [linkedin.com/in/haileamlak](https://linkedin.com/in/haileamlak).
-
-
 <p align="center">
   <a href="https://www.linkedin.com/in/haileamlak" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="mailto:haileamlakbeat@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" width="40" height="40"/>
   </a>
   <a href="https://leetcode.com/Hayla_Beat" target="_blank">
     <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" width="40" height="40"/>
