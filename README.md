@@ -113,25 +113,30 @@ I am currently enrolled in an intensive software engineering training program at
   </tr>
 </table>
 
+<br><br><br><br>
+
+<!-- Add more breaks to ensure spacing between table and stats -->
 
 <p align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=haileamlak&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@surraaI's github-readme-stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=surraaI&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@surraaI's github-readme-streak-stats"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=haileamlak&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@haileamlak's github-readme-stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=haileamlak&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@haileamlak's github-readme-streak-stats"/>
 </p>
+
+<br>
 
 **Get in Touch**
 
-<p align="center" style="gap: 20px;>
-  <a href="https://www.linkedin.com/in/haileamlak" target="_blank">
+<p align="center" style="display: flex; justify-content: center; gap: 30px;">
+  <a href="https://linkedin.com/in/haileamlak" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="mailto:haileamlakbeat@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" height="40"/>
+  <a href="mailto:haileamlakbeat@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/email-open.png" alt="Email" width="40" height="40"/>
   </a>
-  <a href="https://leetcode.com/Hayla_Beat" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
+  <a href="https://leetcode.com/yourprofile" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Leetcode" width="40" height="40"/>
   </a>
-  <a href="https://codeforces.com/profile/haileamlak" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-2-pack-logos-icons-2944796.png?f=webp&w=256" alt="Codeforces" width="40" height="40"/>
+  <a href="https://codeforces.com/profile/yourprofile" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Codeforces_logo.svg" alt="Codeforces" width="40" height="40"/>
   </a>
 </p>
