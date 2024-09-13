@@ -114,6 +114,8 @@ I am currently enrolled in an intensive software engineering training program at
 </table>
 
 <br><br><br><br>
+<br><br><br><br>
+<br><br><br><br>
 
 <!-- Add more breaks to ensure spacing between table and stats -->
 
@@ -131,12 +133,12 @@ I am currently enrolled in an intensive software engineering training program at
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="mailto:haileamlakbeat@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/email-open.png" alt="Email" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" height="40"/>
   </a>
   <a href="https://leetcode.com/yourprofile" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Leetcode" width="40" height="40"/>
   </a>
   <a href="https://codeforces.com/profile/yourprofile" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Codeforces_logo.svg" alt="Codeforces" width="40" height="40"/>
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-2-pack-logos-icons-2944796.png?f=webp&w=256" alt="Codeforces" width="40" height="40"/>
   </a>
 </p>
