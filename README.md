@@ -46,7 +46,7 @@
 # Hi, I'm Haileamlak Belachew! 
 A software engineer with a strong foundation in back-end development, mobile applications, and full-stack projects. I recently graduated with a Bachelor's degree in Computer Science from Addis Ababa University, and I'm continuously exploring new technologies and frameworks to enhance my skills.
 
-I develop scalable and secure RESTful APIs with Golang and Python, and create cross-platform mobile applications using Flutter. My approach emphasizes clean, maintainable code, leveraging agile methodologies, Clean Architecture, and thorough testing.
+I develop scalable and secure RESTful APIs with Golang and create cross-platform mobile applications using Flutter. My approach emphasizes clean, maintainable code, leveraging agile methodologies, Clean Architecture, and thorough testing.
 
 I am currently enrolled in an intensive software engineering training program at [A2SV](https://a2sv.org/), where I focus on advanced algorithms, data structures, and back-end software development. This experience has sharpened my problem-solving skills and enhanced my technical communication abilities.
 
@@ -113,7 +113,13 @@ I am currently enrolled in an intensive software engineering training program at
   </tr>
 </table>
 
-<p>. . .</p>
+
+<p align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=haileamlak&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@surraaI's github-readme-stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=surraaI&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@surraaI's github-readme-streak-stats"/>
+</p>
+
+**Get in Touch**
 
 <p align="center" style="gap: 20px;>
   <a href="https://www.linkedin.com/in/haileamlak" target="_blank">
@@ -128,9 +134,4 @@ I am currently enrolled in an intensive software engineering training program at
   <a href="https://codeforces.com/profile/haileamlak" target="_blank">
     <img src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-2-pack-logos-icons-2944796.png?f=webp&w=256" alt="Codeforces" width="40" height="40"/>
   </a>
-</p>
-
-<p align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=haileamlak&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@surraaI's github-readme-stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=surraaI&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@surraaI's github-readme-streak-stats"/>
 </p>
