@@ -50,29 +50,9 @@ I develop scalable and secure RESTful APIs with Golang and Python, and create cr
 
 I am currently enrolled in an intensive software engineering training program at [A2SV](https://a2sv.org/), where I focus on advanced algorithms, data structures, and back-end software development. This experience has sharpened my problem-solving skills and enhanced my technical communication abilities.
 
-These are the languages and tools I am familiar with.
+**Languages and tools I am familiar with:**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-Golang-0175C2?style=flat&logo=golang&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-Dart-0175C2?style=plain&logo=dart&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JWT-000000?style=flat&logo=json-web-tokens&logoColor=white" />
-</p>
-
-<table align="center">
+<table align="left">
   <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=go" alt="Golang" width="40" height="40" />
@@ -136,8 +116,20 @@ These are the languages and tools I am familiar with.
 You can reach out to me via email at [haileamlakbeat@gmail.com](mailto:haileamlakbeat@gmail.com), or connect with me on [linkedin.com/in/haileamlak](https://linkedin.com/in/haileamlak).
 
 
-<!--![Haileamlak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haileamlak&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haileamlak&layout=compact&theme=radical)
+<p align="center">
+  <a href="https://www.linkedin.com/in/haileamlak" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="mailto:haileamlakbeat@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://leetcode.com/Hayla_Beat" target="_blank">
+    <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" width="40" height="40"/>
+  </a>
+  <a href="https://codeforces.com/profile/haileamlak" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codeforces.svg" alt="Codeforces" width="40" height="40"/>
+  </a>
+</p>
 
 -->
 <p align="center" style="display: flex; justify-content: center; gap: 10px;">
