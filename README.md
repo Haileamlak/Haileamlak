@@ -128,7 +128,7 @@ I am currently enrolled in an intensive software engineering training program at
 
 **<p align="center">Get in Touch</p>**
 
-<p align="center" style="display: flex; justify-content: center; gap: 30px;">
+<p align="center" >
   <a href="https://linkedin.com/in/haileamlak" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
   </a>
@@ -138,12 +138,12 @@ I am currently enrolled in an intensive software engineering training program at
   </a>
   <span style="width: 20px;"></span>
   
-  <a href="https://leetcode.com/yourprofile" target="_blank">
+  <a href="https://leetcode.com/Hayla_Beat" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Leetcode" width="40" height="40"/>
   </a>
   <span style="width: 20px;"></span>
   
-  <a href="https://codeforces.com/profile/yourprofile" target="_blank">
+  <a href="https://codeforces.com/profile/haileamlak" target="_blank">
     <img src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-2-pack-logos-icons-2944796.png?f=webp&w=256" alt="Codeforces" width="40" height="40"/>
   </a>
 </p>
