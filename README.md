@@ -113,20 +113,20 @@ I am currently enrolled in an intensive software engineering training program at
   </tr>
 </table>
 
-<br><br>
+<p></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/haileamlak" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="mailto:haileamlakbeat@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" height="40"/>
   </a>
   <a href="https://leetcode.com/Hayla_Beat" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode&logoColor=white" alt="LeetCode" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
   </a>
   <a href="https://codeforces.com/profile/haileamlak" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codeforces.svg" alt="Codeforces" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Codeforces_logo.svg" alt="Codeforces" width="40" height="40"/>
   </a>
 </p>
 
