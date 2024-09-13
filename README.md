@@ -75,59 +75,59 @@ These are the languages and tools I am familiar with.
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://img.shields.io/badge/-Golang-0175C2?style=flat&logo=golang&logoColor=white" alt="Golang" width="40" height="40" />
+        <img src="https://skillicons.dev/icons?i=go" alt="Golang" width="40" height="40" />
       <br>Golang
     </td>
     <td align="center" width="96">
-        <img src="https://img.shields.io/badge/-Dart-0175C2?style=plain&logo=dart&logoColor=white" alt="Dart" width="40" height="40" />
+        <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="40" height="40" />
       <br>Dart
     </td>
     <td align="center" width="96">
-        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" width="40" height="40" />
+        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40" />
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" width="40" height="40" />
+        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40" />
       <br>C++
     </td>
     <td align="center" width="96">
-        <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java" width="40" height="40" />
+        <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40" />
       <br>Java
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" width="40" height="40" />
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40" />
       <br>MongoDB
     </td>
     <td align="center" width="96">
-        <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" alt="Firebase" width="40" height="40" />
+        <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40" height="40" />
       <br>Firebase
     </td>
     <td align="center" width="96">
-        <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" width="40" height="40" />
+        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40" />
       <br>MySQL
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" width="40" height="40" />
+        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" />
       <br>Git
     </td>
     <td align="center" width="96">
-        <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" width="40" height="40" />
+        <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40" />
       <br>Postman
     </td>
     <td align="center" width="96">
-        <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" width="40" height="40" />
+        <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40" />
       <br>VS Code
     </td>
     <td align="center" width="96">
-        <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" width="40" height="40" />
+        <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="40" height="40" />
       <br>Redis
     </td>
     <td align="center" width="96">
-        <img src="https://img.shields.io/badge/-JWT-000000?style=flat&logo=json-web-tokens&logoColor=white" alt="JWT" width="40" height="40" />
+        <img src="https://skillicons.dev/icons?i=jwt" alt="JWT" width="40" height="40" />
       <br>JWT
     </td>
   </tr>
