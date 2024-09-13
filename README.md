@@ -115,7 +115,7 @@ I am currently enrolled in an intensive software engineering training program at
 
 <p></p>
 
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; gap: 20px;>
   <a href="https://www.linkedin.com/in/haileamlak" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
   </a>
@@ -126,7 +126,7 @@ I am currently enrolled in an intensive software engineering training program at
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
   </a>
   <a href="https://codeforces.com/profile/haileamlak" target="_blank">
-    <img src="[https://upload.wikimedia.org/wikipedia/commons/3/3f/Codeforces_logo.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ffree-icon%2Fcode-forces-3521352&psig=AOvVaw0511r81C9VQS8poOWaM-lR&ust=1726321120677000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDc98GFwIgDFQAAAAAdAAAAABAE)" alt="Codeforces" width="40" height="40"/>
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-2-pack-logos-icons-2944796.png?f=webp&w=256" alt="Codeforces" width="40" height="40"/>
   </a>
 </p>
 
