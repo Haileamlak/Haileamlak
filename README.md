@@ -79,4 +79,5 @@ You can reach out to me via email at [haileamlakbeat@gmail.com](mailto:haileamla
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haileamlak&layout=compact&theme=radical)
 
 -->
-https://github-readme-stats-one-bice.vercel.app/api?username=haileamlak&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=haileamlak&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@surraaI's github-readme-stats"/>
+    
