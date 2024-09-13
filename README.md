@@ -113,9 +113,9 @@ I am currently enrolled in an intensive software engineering training program at
   </tr>
 </table>
 
-<p></p>
+<p>. . .</p>
 
-<p align="center" style="display: flex; justify-content: center; gap: 20px;>
+<p align="center" style="gap: 20px;>
   <a href="https://www.linkedin.com/in/haileamlak" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
   </a>
