@@ -43,8 +43,8 @@
 - **Football:** I enjoy playing and watching football during my free time.
 - **Reading:** I'm an avid reader, always looking for interesting books.
 -->
-# Hi, I'm Haileamlak Belachew! 
-A software engineer with a strong foundation in back-end development, mobile applications, and full-stack projects. <!--I recently graduated with a Bachelor's degree in Computer Science from Addis Ababa University , and -->I'm continuously exploring new technologies and frameworks to enhance my skills.
+# 👋,
+I'm a software engineer with a strong foundation in back-end development, mobile applications, and full-stack projects. <!--I recently graduated with a Bachelor's degree in Computer Science from Addis Ababa University , and -->I'm continuously exploring new technologies and frameworks to enhance my skills.
 
 I develop scalable and secure RESTful APIs with Golang and create cross-platform mobile applications using Flutter. My approach emphasizes clean, maintainable code, leveraging agile methodologies, Clean Architecture, and thorough testing.
 
