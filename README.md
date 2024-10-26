@@ -44,11 +44,9 @@
 - **Reading:** I'm an avid reader, always looking for interesting books.
 -->
 # Hi 👋,
-I'm a software engineer with a strong foundation in back-end development, mobile applications, and full-stack projects. <!--I recently graduated with a Bachelor's degree in Computer Science from Addis Ababa University , and -->I'm continuously exploring new technologies and frameworks to enhance my skills.
+A software engineer specializing in backend development. My journey in programming began when I started my studies in Computer Science, and over the past two years, I have worked on diverse personal, academic, and hackathon projects as a Flutter developer. Recently, I transitioned to backend development, focusing on building robust systems using Golang and Python. I am open to new opportunities that enable me to apply my skills to create impactful solutions and contribute to positive change in the world.
 
-I develop scalable and secure RESTful APIs with Golang and create cross-platform mobile applications using Flutter. My approach emphasizes clean, maintainable code, leveraging agile methodologies, Clean Architecture, and thorough testing.
-
-I am currently enrolled in an intensive software engineering training program at [A2SV](https://a2sv.org/), where I focus on advanced algorithms, data structures, and back-end software development. This experience has sharpened my problem-solving skills and enhanced my technical communication abilities.
+I am currently enrolled in an intensive software engineering training program at [A2SV](https://a2sv.org/), where I focus on advanced algorithms and data structures. This experience has sharpened my problem-solving skills and enhanced my technical communication abilities.
 
 **Languages and tools I am familiar with:**
 
