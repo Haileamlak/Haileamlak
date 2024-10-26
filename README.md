@@ -44,7 +44,7 @@
 - **Reading:** I'm an avid reader, always looking for interesting books.
 -->
 # Hi 👋,
-A software engineer specializing in backend development. My journey in programming began when I started my studies in Computer Science, and over the past two years, I have worked on diverse personal, academic, and hackathon projects as a Flutter developer. Recently, I transitioned to backend development, focusing on building robust systems using Golang and Python. I am open to new opportunities that enable me to apply my skills to create impactful solutions and contribute to positive change in the world.
+I am software engineer specializing in backend development. My journey in programming began when I started my studies in Computer Science, and over the past two years, I have worked on diverse personal, academic, and hackathon projects as a Flutter developer. Recently, I transitioned to backend development, focusing on building robust systems using Golang and Python. I am open to new opportunities that enable me to apply my skills to create impactful solutions and contribute to positive change in the world.
 
 I am currently enrolled in an intensive software engineering training program at [A2SV](https://a2sv.org/), where I focus on advanced algorithms and data structures. This experience has sharpened my problem-solving skills and enhanced my technical communication abilities.
 
