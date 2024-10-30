@@ -1,6 +1,6 @@
 # 🙋‍♂️ Hola!
 
-I’m a recent **Computer Science Graduate** passionate about creating digital solutions to problems our world is facing today. For the past three years, I have been working on diverse academical, personal, and hackathon projects taking different roles including Frontend Developer, UI/UX Designer, and Flutter Developer. Recently, I transitioned to backend development, focusing on building robust and scalable systems. 
+I’m Haileamlak, a recent **Computer Science Graduate** passionate about creating digital solutions to problems our world is facing today. For the past three years, I have been working on diverse academical, personal, and hackathon projects taking different roles including Frontend Developer, UI/UX Designer, and Flutter Developer. Recently, I transitioned to backend development, focusing on building robust and scalable systems. 
 
 ---
 
@@ -16,6 +16,8 @@ I’m a recent **Computer Science Graduate** passionate about creating digital s
 ### Please feel free to reach out to me! Your message makes me smile. :)
 - **Email**: [haileamlakbeat@gmail.com](mailto:haileamlakbeat@gmail.com)
 - **LinkedIn**: [linkedin.com/in/haileamlak](https://linkedin.com/in/haileamlak)
+
+Take a look at my [portfolio](https://haileamlak.github.io) for a detailed information about me.
 
 <!--
 **Languages and tools I am familiar with:**
