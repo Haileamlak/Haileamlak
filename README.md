@@ -1,54 +1,24 @@
+# 🙋‍♂️ Hola!
+
+I’m a recent **Computer Science Graduate** passionate about creating digital solutions to the problems my world is facing today. For over the past three years, I have worked on diverse projects while taking different roles including Frontend Developer, UI/UX Designer, and Flutter Developer. Recently, I transitioned to backend development, focusing on building robust and scalable systems.
+
+---
+
+### Key Skills & Interests
+- **Languages**: Python, Golang, Dart, C++, Java, SQL, Html/CSS
+- **Frameworks & Libraries**: Flutter, Flask, Bootstrap, Swing
+- **Databases**: MongoDB, Firebase, MySQL
+- **Tools**: GCP, Git, GitHub, GitLab, Postman
+- **Other Interests**: Data Structures, Algorithms, Competitive Programming, Cybersecurity
+
+---
+
+### Please reach out to me! Your message makes me smile. :)
+- **Email**: [haileamlakbeat@gmail.com](mailto:haileamlakbeat@gmail.com)
+- **LinkedIn**: [linkedin.com/in/haileamlak](https://linkedin.com/in/haileamlak)
+- **GitHub**: [github.com/haileamlak](https://github.com/haileamlak)
+
 <!--
-## Hi 
-🌱 I’m currently studying computer science at Addis Ababa University. 
-## 👋, I'm Haileamlak Belachew! 
-
-- I am studying **Computer Science** at **Addis Ababa University**. 
-- And currently learning backend development with the Go programming language.
-
-### Skills & Technologies
-
-- **Languages:** Python, Golang, Dart (Flutter), C++, Java
-- **Frameworks & Libraries:** Flutter, Testify
-- **Backend Development:** RESTful APIs, Clean Architecture, SOLID Principles, Microservices
-- **Databases:** MySQL, MongoDB, Firebase
-- **Tools:** Git, Postman, VS Code
-- **Other:** Data Structures & Algorithms, Competitive Programming
-
-
-## 🌟 Notable Projects
-
-- **[MK ICT Competition 1st Place Project](https://github.com/username/project-link)**: Developed a live and on-demand video streaming platform for EOTC MK Television Broadcast Service.
-- **[Task Manager API](https://github.com/username/task-manager-api)**: A robust API built with Golang, following Clean Architecture principles.
-- **[Calendar Application](https://github.com/username/calendar-app)**: A Java Swing application supporting Ethiopian and Gregorian calendars, with additional features like date conversions and holiday calculations.
-- **[Health Information Website](https://github.com/username/health-info-website)**: A comprehensive health-related information website with a feature to find nearby health centers.
-
-## 💼 Experience
-
-- **A2SV (Africa to Silicon Valley)**: Participated in a project phase focusing on backend development. Developed real-life software projects and enhanced problem-solving skills through competitive programming.
-- **Hackathons**: Active participant in various hackathons, winning and contributing to innovative software solutions.
-
-### Get in Touch
-
-- **LinkedIn:** [Haileamlak Belachew](https://www.linkedin.com/in/haileamlak/)
-- **Email:** haileamlakbeat@gmail.com
-<!--
-## 🏆 Achievements
-
-- **1st Place** at MK ICT Competition'23
-- **Graduated** with a GPA of 3.72/4.0 from Addis Ababa University
-- **Mastered** advanced data structures and algorithms through A2SV
-#### Hobbies & Interests
-
-- **Football:** I enjoy playing and watching football during my free time.
-- **Reading:** I'm an avid reader, always looking for interesting books.
--->
-# Hi 👋,
-
-I am software engineer specializing in backend development. My journey in programming began when I started my studies in Computer Science, and over the past two years, I have worked on diverse personal, academic, and hackathon projects as a Flutter developer. Recently, I transitioned to backend development, focusing on building robust systems using Golang and Python. I am open to new opportunities that enable me to apply my skills to create impactful solutions and contribute to positive change in the world.
-
-I am currently enrolled in an intensive software engineering training program at [A2SV](https://a2sv.org/), where I focus on advanced algorithms and data structures. This experience has sharpened my problem-solving skills and enhanced my technical communication abilities.
-
 **Languages and tools I am familiar with:**
 
 <table align="left">
