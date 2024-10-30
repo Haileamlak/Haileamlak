@@ -86,12 +86,12 @@ I’m Haileamlak, a recent **Computer Science Graduate** passionate about creati
 <br><br><br><br>
 <br><br><br><br>
 
-<!-- Add more breaks to ensure spacing between table and stats -->
+<!-- Add more breaks to ensure spacing between table and stats 
 
-<p align="left" style="display: flex; justify-content: center; gap: 10px;">
+<p align="left" style="display: flex; justify-content: center; gap: 10px;">-->
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=haileamlak&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@haileamlak's github-readme-stats"/>
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=haileamlak&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@haileamlak's github-readme-streak-stats"/> -->
-</p>
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=haileamlak&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@haileamlak's github-readme-streak-stats"/> 
+</p>-->
 
 <!--
 **Get in Touch**
