@@ -9,14 +9,13 @@ I’m a recent **Computer Science Graduate** passionate about creating digital s
 - **Frameworks & Libraries**: Flutter, Flask, Bootstrap, Swing
 - **Databases**: MongoDB, Firebase, MySQL
 - **Tools**: GCP, Git, GitHub, GitLab, Postman
-- **Other Interests**: Data Structures, Algorithms, Competitive Programming, Cybersecurity
+- **Other Skills and Interests**: Object Oriented Programming, Data Structures and Algorithms, Competitive Programming, Cybersecurity
 
 ---
 
-### Please reach out to me! Your message makes me smile. :)
+### Please feel free to reach out to me! Your message makes me smile. :)
 - **Email**: [haileamlakbeat@gmail.com](mailto:haileamlakbeat@gmail.com)
 - **LinkedIn**: [linkedin.com/in/haileamlak](https://linkedin.com/in/haileamlak)
-- **GitHub**: [github.com/haileamlak](https://github.com/haileamlak)
 
 <!--
 **Languages and tools I am familiar with:**
@@ -90,7 +89,7 @@ I’m a recent **Computer Science Graduate** passionate about creating digital s
 
 <p align="left" style="display: flex; justify-content: center; gap: 10px;">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=haileamlak&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@haileamlak's github-readme-stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=haileamlak&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@haileamlak's github-readme-streak-stats"/>
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=haileamlak&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@haileamlak's github-readme-streak-stats"/> -->
 </p>
 
 **Get in Touch**
