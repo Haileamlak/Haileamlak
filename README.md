@@ -16,8 +16,7 @@ I’m Haileamlak, a recent **Computer Science Graduate** passionate about creati
 ### Please feel free to reach out to me! Your message makes me smile. :)
 - **Email**: [haileamlakbeat@gmail.com](mailto:haileamlakbeat@gmail.com)
 - **LinkedIn**: [linkedin.com/in/haileamlak](https://linkedin.com/in/haileamlak)
-
-Take a look at my [portfolio](https://haileamlak.github.io) for a detailed information about me.
+- **Personal webiste**: [portfolio](https://haileamlak.github.io)
 
 <!--
 **Languages and tools I am familiar with:**
