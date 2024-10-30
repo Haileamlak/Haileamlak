@@ -1,6 +1,6 @@
 # 🙋‍♂️ Hola!
 
-I’m a recent **Computer Science Graduate** passionate about creating digital solutions to the problems my world is facing today. For the past three years, I have worked on diverse academical, personal, and hackathon projects while taking different roles like Frontend Developer, UI/UX Designer, and Flutter Developer. Recently, I transitioned to backend development, focusing on building robust and scalable systems.
+I’m a recent **Computer Science Graduate** passionate about creating digital solutions to problems our world is facing today. For the past three years, I have been working on diverse academical, personal, and hackathon projects taking different roles including Frontend Developer, UI/UX Designer, and Flutter Developer. Recently, I transitioned to backend development, focusing on building robust and scalable systems. 
 
 ---
 
@@ -92,6 +92,7 @@ I’m a recent **Computer Science Graduate** passionate about creating digital s
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=haileamlak&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@haileamlak's github-readme-streak-stats"/> -->
 </p>
 
+<!--
 **Get in Touch**
 
 <table align="left" style="border: none">
@@ -118,3 +119,4 @@ I’m a recent **Computer Science Graduate** passionate about creating digital s
     </td>
   </tr>
 </table>
+--> 
