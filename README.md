@@ -1,6 +1,6 @@
 # 🙋‍♂️ Hola!
 
-I’m a recent **Computer Science Graduate** passionate about creating digital solutions to the problems my world is facing today. For over the past three years, I have worked on diverse projects while taking different roles including Frontend Developer, UI/UX Designer, and Flutter Developer. Recently, I transitioned to backend development, focusing on building robust and scalable systems.
+I’m a recent **Computer Science Graduate** passionate about creating digital solutions to the problems my world is facing today. For the past three years, I have worked on diverse academical, personal, and hackathon projects while taking different roles like Frontend Developer, UI/UX Designer, and Flutter Developer. Recently, I transitioned to backend development, focusing on building robust and scalable systems.
 
 ---
 
