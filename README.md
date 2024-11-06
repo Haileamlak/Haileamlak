@@ -1,6 +1,6 @@
 # 🙋‍♂️ Hola!
 
-I’m Haileamlak, a recent **Computer Science Graduate** passionate about creating digital solutions to problems our world is facing today. For the past three years, I have been working on diverse academical, personal, and hackathon projects taking different roles including Frontend Developer, UI/UX Designer, and Flutter Developer. Recently, I transitioned to backend development, focusing on building robust and scalable systems. 
+I'm Haileamlak, a recent **Computer Science graduate** driven to build impactful digital solutions for today’s global challenges. With a background in UI/UX design and mobile app development, my focus is now on backend development, where I work to create scalable, high-performance systems that prioritize both functionality and user experience.
 
 ---
 
