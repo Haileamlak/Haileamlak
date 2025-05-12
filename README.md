@@ -1,3 +1,35 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=a5d6ff&width=435&lines=Software+Engineer;Computer+Science+Graduate;Constantly+Learning+New+Technology)](https://git.io/typing-svg)
+
+## About Me
+
+> A growth minded, full stack software engineer with experience building softwares across many languages and technologies. My enthusiasm lies in creating software that bridges the gap between complex systems and their demands, delivering robust and scalable solutions.
+
+<details>
+<summary><b>More Info</b></summary>
+<br>
+
+### Languages
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,go,dart,java,html,css,cpp,c" alt="Skill Icons" />
+</a>
+
+### Frameworks
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=flask,flutter,django,react,bootstrap,nodejs" alt="Skill Icons" />
+</a>
+
+### Tools
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vim,git,github,figma" alt="Skill Icons" />
+</a>
+
+</details>
+</div>
+
+<!--
 # 🙋‍♂️ Hola!
 
 I'm Haileamlak, a recent **Computer Science graduate** driven to build impactful digital solutions for today’s global challenges. With a background in UI/UX design and mobile app development, my focus is now on backend development, where I work to create scalable, high-performance systems that prioritize both functionality and user experience.
@@ -89,7 +121,7 @@ I'm Haileamlak, a recent **Computer Science graduate** driven to build impactful
 <!-- Add more breaks to ensure spacing between table and stats 
 
 <p align="left" style="display: flex; justify-content: center; gap: 10px;">-->
-
+<!--
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=haileamlak&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="50%" alt="@haileamlak's github-readme-stats"/>
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=haileamlak&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@haileamlak's github-readme-streak-stats"/> 
 </p>-->
