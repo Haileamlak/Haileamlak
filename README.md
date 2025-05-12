@@ -23,7 +23,7 @@
 ### Tools
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vim,git,github,figma" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=vim,git,github,figma,gcp,postman,mongodb" alt="Skill Icons" />
 </a>
 
 </details>
