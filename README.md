@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=a5d6ff&width=435&lines=Software+Engineer;Computer+Science+Graduate;Constantly+Learning+New+Technology)](https://git.io/typing-svg)
 
-## About Me
+## I'm
 
 > A growth minded, full stack software engineer with experience building softwares across many languages and technologies. My enthusiasm lies in creating softwares that solve real-life problems.
 
