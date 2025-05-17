@@ -26,33 +26,6 @@
   <img src="https://skillicons.dev/icons?i=figma,gcp,postman,mongodb" alt="Skill Icons" />
 </a>
 
-**Get in Touch**
-
-<table align="left" style="border: none">
-  <tr>
-    <td align="center" width="96">
-      <a href="https://linkedin.com/in/haileamlak" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="mailto:haileamlakbeat@gmail.com" target="_blank">
-        <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://leetcode.com/Hayla_Beat" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Leetcode" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://codeforces.com/profile/Haileamlak" target="_blank">
-        <img src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-2-pack-logos-icons-2944796.png?f=webp&w=256" alt="Codeforces" width="40" height="40"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
 </details>
 </div>
 
@@ -153,6 +126,35 @@ I'm Haileamlak, a recent **Computer Science graduate** driven to build impactful
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=haileamlak&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@haileamlak's github-readme-streak-stats"/> 
 </p>-->
 
-<!-- -->
+<!--
+
+**Get in Touch**
+
+<table align="left" style="border: none">
+  <tr>
+    <td align="center" width="96">
+      <a href="https://linkedin.com/in/haileamlak" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="mailto:haileamlakbeat@gmail.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://leetcode.com/Hayla_Beat" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Leetcode" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://codeforces.com/profile/Haileamlak" target="_blank">
+        <img src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-2-pack-logos-icons-2944796.png?f=webp&w=256" alt="Codeforces" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+-->
 
 
