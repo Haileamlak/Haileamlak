@@ -2,7 +2,7 @@
 
 ## About Me
 
-> A growth minded, full stack software engineer with experience building softwares across many languages and technologies. My enthusiasm lies in creating softwares that solve real-life problems.
+> A growth minded, software engineer with experience building softwares across many languages and technologies. My enthusiasm lies in creating softwares that solve real-life problems.
 
 <details>
 <summary><b>More Info</b></summary>
@@ -11,19 +11,19 @@
 ### Languages
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,go,dart,java,html,css,cpp,c" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=python,go,cpp,html,css" alt="Skill Icons" />
 </a>
 
 ### Frameworks
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=flask,flutter,django,react,bootstrap,nodejs" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=flask,flutter,bootstrap" alt="Skill Icons" />
 </a>
 
 ### Tools
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vim,git,github,figma,gcp,postman,mongodb" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=figma,gcp,postman,mongodb" alt="Skill Icons" />
 </a>
 
 </details>
@@ -126,7 +126,7 @@ I'm Haileamlak, a recent **Computer Science graduate** driven to build impactful
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=haileamlak&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@haileamlak's github-readme-streak-stats"/> 
 </p>-->
 
-<!--
+<!-- -->
 **Get in Touch**
 
 <table align="left" style="border: none">
