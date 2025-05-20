@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com&pause=1000&color=357ccc&width=435&weight=Bold&lines=Software+Engineer;Computer+Science+Graduate;Constantly+Learning+New+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com&pause=1000&color=357ccc&width=435&lines=Software+Engineer;Computer+Science+Graduate;Constantly+Learning+New+Technologies)](https://git.io/typing-svg)
 
 ### About Me
 
