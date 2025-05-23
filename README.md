@@ -2,7 +2,7 @@
 
 ### About Me
 
-> *A software engineer with experience building softwares using different languages and technologies. My enthusiasm lies in creating softwares that solve real-life problems.*
+> *A software engineer with experience building softwares across different languages and technologies. My enthusiasm lies in creating softwares that solve real-life problems.*
 
 <details>
 <summary><b>More Info</b></summary>
