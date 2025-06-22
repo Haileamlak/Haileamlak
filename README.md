@@ -4,7 +4,7 @@
 
 > *A software engineer with experience building softwares across different languages and technologies. My enthusiasm lies in creating softwares that solve real-life problems.*
 
-**Checkout my portfolio [website](https://haileamlak-belachew.web.app)] to find out more!
+**Checkout my portfolio [website](https://haileamlak-belachew.web.app) to find out more!**
 
 <details>
 <summary><b>More Info</b></summary>
