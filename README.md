@@ -1,3 +1,32 @@
+I'm a software engineer passionate about building scalable backend and ai systems and impactful software solutions. 
+
+## Skills
+- **Languages**: Python, Go, C++, Java, Dart (Flutter)
+- **Backend**: RESTful APIs, Microservices, Clean Architecture, SOLID Principles
+- **Databases**: MongoDB, MySQL, Firebase
+- **Tools**: Git, Docker, Kubernetes, Postman
+- **Other**: Data Structures & Algorithms, Competitive Programming
+<!--
+## Projects
+- **EOTC MK Video Streaming Platform** – Live and on-demand streaming service.
+- **Health Information Platform** – Centralized health info with nearby center finder.
+- **Ewuqet Gebeya** – Digital marketplace backend (Go + MongoDB).
+- **Content Creator AI Agent** – Automates content creation, posting, and social media management.
+
+## Achievements
+- 1st Place – MK ICT Competition 2023
+- Google Cybersecurity Professional Certificate
+- Competitive programming contests: ETCPC, A2SV triad, ECPC -->
+
+## Connect
+- [LinkedIn](https://linkedin.com/in/haileamlak)
+- [Portfolio](https://haileamlak-belachew.web.app)
+
+
+
+
+
+
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com?pause=1000&color=357ccc&width=435&lines=Software+Engineer;Computer+Science+Graduate;Constantly+Learning+New+Technologies)](https://git.io/typing-svg)
 
 
@@ -6,7 +35,7 @@
 > *A software engineer with experience building backend  using different languages and technologies. My enthusiasm lies in creating solutions to real-life problems using technology.*
 
 **Checkout my portfolio [website](https://haileamlak-belachew.web.app) to find out more!**
--->
+
 ## Software Engineer
 
 <details>
@@ -126,6 +155,8 @@ I'm Haileamlak, a recent **Computer Science graduate** driven to build impactful
 <!-- Add more breaks to ensure spacing between table and stats 
 
 <p align="left" style="display: flex; justify-content: center; gap: 10px;">-->
+
+
 <!--
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=haileamlak&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="50%" alt="@haileamlak's github-readme-stats"/>
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=haileamlak&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@haileamlak's github-readme-streak-stats"/> 
