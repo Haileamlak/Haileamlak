@@ -1,10 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?pause=1000&color=357ccc&width=435&lines=Software+Engineer;Computer+Science+Graduate;Constantly+Learning+New+Technologies)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.demolab.com?pause=1000&color=357ccc&width=435&lines=Software+Engineer;Computer+Science+Graduate;Constantly+Learning+New+Technologies)](https://git.io/typing-svg)
+
 
 ### About Me
 
-> *A software engineer with experience building softwares using different languages and technologies. My enthusiasm lies in creating solutions to real-life problems using technology.*
+> *A software engineer with experience building backend  using different languages and technologies. My enthusiasm lies in creating solutions to real-life problems using technology.*
 
 **Checkout my portfolio [website](https://haileamlak-belachew.web.app) to find out more!**
+-->
+## Software Engineer
 
 <details>
 <summary><b>More Info</b></summary>
