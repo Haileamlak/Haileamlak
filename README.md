@@ -1,6 +1,5 @@
-I'm a software engineer passionate about building scalable backend and ai systems and impactful software solutions. 
+I'm a software engineer passionate about building impactful softwares. 
 
-## Skills
 - **Languages**: Python, Go, C++, Java, Dart (Flutter)
 - **Backend**: RESTful APIs, Microservices, Clean Architecture, SOLID Principles
 - **Databases**: MongoDB, MySQL, Firebase
