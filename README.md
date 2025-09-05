@@ -1,9 +1,14 @@
 I'm a software engineer passionate about building impactful softwares. 
 
+
 **Languages**: Python, Go, C++, Java, Dart (Flutter)
+
 **Backend**: RESTful APIs, Microservices, Clean Architecture, SOLID Principles
+
 **Databases**: MongoDB, MySQL, Firebase
+
 **Tools**: Git, Docker, Kubernetes, Postman
+
 **Other**: Data Structures & Algorithms, Competitive Programming
 <!--
 ## Projects
