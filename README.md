@@ -1,10 +1,10 @@
 I'm a software engineer passionate about building impactful softwares. 
 
-- **Languages**: Python, Go, C++, Java, Dart (Flutter)
-- **Backend**: RESTful APIs, Microservices, Clean Architecture, SOLID Principles
-- **Databases**: MongoDB, MySQL, Firebase
-- **Tools**: Git, Docker, Kubernetes, Postman
-- **Other**: Data Structures & Algorithms, Competitive Programming
+**Languages**: Python, Go, C++, Java, Dart (Flutter)
+**Backend**: RESTful APIs, Microservices, Clean Architecture, SOLID Principles
+**Databases**: MongoDB, MySQL, Firebase
+**Tools**: Git, Docker, Kubernetes, Postman
+**Other**: Data Structures & Algorithms, Competitive Programming
 <!--
 ## Projects
 - **EOTC MK Video Streaming Platform** – Live and on-demand streaming service.
@@ -17,9 +17,8 @@ I'm a software engineer passionate about building impactful softwares.
 - Google Cybersecurity Professional Certificate
 - Competitive programming contests: ETCPC, A2SV triad, ECPC -->
 
-## Connect
-- [LinkedIn](https://linkedin.com/in/haileamlak)
-- [Portfolio](https://haileamlak-belachew.web.app)
+
+[LinkedIn](https://linkedin.com/in/haileamlak) | [Portfolio](https://haileamlak-belachew.web.app)
 
 
 
