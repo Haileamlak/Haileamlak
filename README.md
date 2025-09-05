@@ -1,6 +1,6 @@
-I'm a software engineer passionate about building impactful softwares. 
+I'm a **software engineer** passionate about building softwares people actually need. 
 
-
+<!--
 **Languages**: Python, Go, C++, Java, Dart (Flutter)
 
 **Backend**: RESTful APIs, Microservices, Clean Architecture, SOLID Principles
@@ -10,6 +10,7 @@ I'm a software engineer passionate about building impactful softwares.
 **Tools**: Git, Docker, Kubernetes, Postman
 
 **Other**: Data Structures & Algorithms, Competitive Programming
+-->
 <!--
 ## Projects
 - **EOTC MK Video Streaming Platform** – Live and on-demand streaming service.
@@ -17,13 +18,15 @@ I'm a software engineer passionate about building impactful softwares.
 - **Ewuqet Gebeya** – Digital marketplace backend (Go + MongoDB).
 - **Content Creator AI Agent** – Automates content creation, posting, and social media management.
 
+[LinkedIn](https://linkedin.com/in/haileamlak) | 
+
 ## Achievements
 - 1st Place – MK ICT Competition 2023
 - Google Cybersecurity Professional Certificate
 - Competitive programming contests: ETCPC, A2SV triad, ECPC -->
 
 
-[LinkedIn](https://linkedin.com/in/haileamlak) | [Portfolio](https://haileamlak-belachew.web.app)
+[Learn More](https://haileamlak-belachew.web.app)
 
 
 
