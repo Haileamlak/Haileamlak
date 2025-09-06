@@ -26,8 +26,9 @@ I'm a **software engineer** passionate about building softwares people actually 
 - Competitive programming contests: ETCPC, A2SV triad, ECPC -->
 
 
-[Learn More](https://haileamlak-belachew.web.app)
-
+<a href="https://haileamlak-belachew.web.app">
+  Learn More <img src="./share.png"/>
+</a>
 
 
 
