@@ -25,12 +25,9 @@ I'm a **software engineer** passionate about building softwares people actually 
 - Google Cybersecurity Professional Certificate
 - Competitive programming contests: ETCPC, A2SV triad, ECPC -->
 
-<a href="https://haileamlak-belachew.web.app" 
-   style="display: inline-flex;flex-direction: row; align-items: center;text-decoration: none; gap: 12px;  color: white;">
-  <span style="text-decoration: none;">Learn More</span>
-  <img src="./share(1).png" alt="share icon" style="width: 12px; height: 12px;" />
+<a href="https://haileamlak-belachew.web.app" target='_blank'>
+  Learn More <img src="./share(1).png" alt="share" width="24" valign="middle"/>
 </a>
-
 
 
 
