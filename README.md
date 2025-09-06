@@ -28,7 +28,7 @@ I'm a **software engineer** passionate about building softwares people actually 
 <a href="https://haileamlak-belachew.web.app" 
    style="display: inline-flex; align-items: center; gap: 6px; text-decoration: none; color: white;">
   <span>Learn More</span>
-  <img src="./share(1).png" alt="share icon" style="width: 24px; height: 24px;" />
+  <img src="./share(1).png" alt="share icon" style="width: 16px; height: 16px;" />
 </a>
 
 
