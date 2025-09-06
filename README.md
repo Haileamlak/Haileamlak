@@ -27,7 +27,7 @@ I'm a **software engineer** passionate about building softwares people actually 
 
 
 <a href="https://haileamlak-belachew.web.app">
-  Learn More <img src="./share.png"/>
+  Learn More <img src="./share.png" size='24' color='white'/>
 </a>
 
 
