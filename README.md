@@ -26,7 +26,7 @@ I'm a **software engineer** passionate about building softwares people actually 
 - Competitive programming contests: ETCPC, A2SV triad, ECPC -->
 
 <a href="https://haileamlak-belachew.web.app" 
-   style="display: inline-flex; align-items: center; gap: 6px;  color: white;">
+   style="display: inline-flex; align-items: center;text-decoration: none; gap: 6px;  color: white;">
   <span style="text-decoration: none;">Learn More</span>
   <img src="./share(1).png" alt="share icon" style="width: 16px; height: 16px;" />
 </a>
