@@ -27,7 +27,6 @@ I'm a **software engineer** passionate about building softwares people actually 
 
 <a href="https://haileamlak-belachew.web.app" target="_blank" rel="noopener noreferrer">
   <span>Learn More</span>&nbsp;
-  <img src="./share(1).png" alt="share" width="12" valign="middle"/>
 </a>
 
 
