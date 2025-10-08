@@ -1,4 +1,4 @@
-I'm a **Software Engineer** passionate about building softwares people actually need. 
+I'm a **Software Engineer** passionate about building things people need. 
 
 <!--
 **Languages**: Python, Go, C++, Java, Dart (Flutter)
