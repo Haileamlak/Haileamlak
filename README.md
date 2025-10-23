@@ -25,7 +25,7 @@ I'm a **software engineer** passionate about building things people need.
 - Google Cybersecurity Professional Certificate
 - Competitive programming contests: ETCPC, A2SV triad, ECPC -->
 
-<a href="https://haileamlak-belachew.web.app" target="_blank" rel="noopener noreferrer">
+<a href="https://haileamlak.tech" target="_blank" rel="noopener noreferrer">
   <span>Learn More</span>&nbsp;
 </a>
 
